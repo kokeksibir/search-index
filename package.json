@@ -8,10 +8,9 @@
   },
   "license": "MIT",
   "dependencies": {
-    "bunyan": "^1.8.10",
     "levelup": "^1.3.8",
-    "search-index-adder": "^0.3.3",
-    "search-index-searcher": "^0.2.5"
+    "search-index-adder": "kokeksibir/search-index-adder",
+    "search-index-searcher": "kokeksibir/search-index-searcher"
   },
   "devDependencies": {
     "JSONStream": "^1.1.4",
